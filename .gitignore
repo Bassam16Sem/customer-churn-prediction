@@ -1,0 +1,20 @@
+## 🚀 How to Run the Project
+
+### Clone Repository
+
+```bash
+git clone https://github.com/Bassam16Sem/customer-churn-prediction.git
+```
+
+### Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### Run Notebook
+
+Open  Google Colab and run:
+- `UAS-BENGKOD.ipynb`
+
+---
