@@ -78,8 +78,8 @@ customer-churn-prediction/
 │   └── processed/
 │
 ├── notebooks/
-│   ├── 01_EDA.ipynb
-│   └── 02_Direct_Modeling.ipynb
+│   ├── UAS-BENGKOD.ipynb
+│   
 │
 ├── src/
 │   ├── preprocessing.py
@@ -112,17 +112,15 @@ Contains cleaned and processed datasets ready for modeling.
 ---
 
 ### 📁 `notebooks/`
-Contains Jupyter Notebook files for analysis and experimentation.
+Contains Google Collab files for analysis and experimentation.
 
-#### `01_EDA.ipynb`
+#### `UAS-BENGKOD.ipynb`
 Notebook for Exploratory Data Analysis (EDA), including:
 - Data understanding
 - Missing value analysis
 - Data visualization
 - Correlation analysis
-
-#### `02_Direct_Modeling.ipynb`
-Notebook for direct machine learning modeling without preprocessing and hyperparameter tuning.
+- Coming Soon
 
 ---
 
@@ -176,7 +174,6 @@ Main project documentation containing:
 - Project overview
 - Workflow
 - Dataset information
-- Instructions
 - Model results
 
 ---
